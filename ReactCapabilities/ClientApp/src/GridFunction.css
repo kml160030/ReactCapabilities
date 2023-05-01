@@ -1,0 +1,30 @@
+﻿/*.GridContainer {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 1px;
+    border-color: black;
+    padding: 0px 5px 0px 5px;
+}*/
+
+.topRow {
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 1px;
+    border-color: black;
+    padding: 0px 5px 0px 5px;
+}
+
+.GridRow {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 1px;
+    border-color: black;
+    padding: 0px 5px 0px 5px;
+}
+

@@ -1,0 +1,4 @@
+﻿.PlusContainer {
+    display: flex;
+    flex-direction: column;
+}
